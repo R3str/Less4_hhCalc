@@ -1,3 +1,3 @@
-# Lesson №4 -- Simple string Calculator
+# Lesson №4 —— Simple string Calculator
 
-Homework from rukojopchik`s squad
+Homework from Rukojopchik`s squad
